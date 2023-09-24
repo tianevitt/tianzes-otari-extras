@@ -119,3 +119,5 @@
 <p>Think of it as your creator's blessing for your map. After all, once you have a battle or other plot-moving encounter, the map setting is still available for its original purpose, whether it is an inn to stay at, a market to shop in, or a ruin to rebuild as a home base.</p>
 <p>But to justify the existence of the map, use it in some encounter that will move along the plot of the story you are trying to tell — whether it involves combat or not.</p>
 <p>With that in mind, every map in this module has at least one encounter.</p>
+<h2>Plans</h2>
+Since I am actively running two Otari-based games, one using Abomination Vaults, I expect this module to grow.
