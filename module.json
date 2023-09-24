@@ -37,5 +37,6 @@
   ],
   "description": "Tianze's Otari Extras is a collection of maps and content for the Otari area. It includes maps and content for Crook's Nook, Crow's Casks, Dawnflower Library and Otari Market.",
   "url": "https://github.com/tianevitt/tianzes-otari-extras",
-  "manifest": "https://raw.githubusercontent.com/tianevitt/tianzes-otari-extras/master/module.json"
+  "manifest": "https://raw.githubusercontent.com/tianevitt/tianzes-otari-extras/master/module.json",
+  "download": "https://github.com/tianevitt/tianzes-otari-extras/archive/refs/heads/main.zip"
 }
