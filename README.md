@@ -113,6 +113,8 @@
         </ul>
     </li>
 </ul>
+<h2></h2>Sample Map - Under Crook's Nook</h2>
+<img src="https://github.com/tianevitt/tianzes-otari-extras/blob/main/Assets/Maps/Crooks-Bridge-Under.webp">
 <h2>Encounters and Map Philosophy</h2>
 <p>After making many maps that really served no purpose except for eye candy, maps such as inns and shops for which I never had enough miniatures or tokens to populate, I came up with the following rule:</p>
 <p style="text-align: center"><em>Every map deserves an encounter.</em></p>
