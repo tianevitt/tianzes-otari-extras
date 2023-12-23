@@ -1,8 +1,8 @@
 <p>Thank you for trying this module. Tianze's Otari Extras is a collection of maps and content designed to accompany Paizo's <em>Abomination Vaults Adventure Path</em>. However, it should be useful for into any Otari-based game.</p>
 <p>I decided to create this module as an introductory free work for my adventurers and maps. I created the original version of these maps while running the adventure, and once I started improving the maps using Forgotten Adventures assets, I decided to try my hand at module-making.</p>
-<p><span style="font-family: Signika, sans-serif">Maps were created with <a href="https://dungeondraft.net/">DungeonDraft </a>using assets from <a href="http://localhost:30000/forgotten-adventures.net" style="box-sizing:border-box;user-select:text;cursor:pointer;color:var(--color-text-hyperlink);transition:text-shadow 0.15s ease-in-out 0s, background-color 0.15s ease-in-out 0s, border 0.15s ease-in-out 0s, color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s, backdrop-filter 0.15s ease-in-out 0s, border-radius 0.15s ease 0s">Forgotten Adventures</a>.</span></p>
-<p><span style="font-family: Signika, sans-serif">Portraits and vignettes were created using <a href="https://www.bing.com/images/create" style="box-sizing:border-box;user-select:text;cursor:pointer;color:var(--color-text-hyperlink);transition:text-shadow 0.15s ease-in-out 0s, background-color 0.15s ease-in-out 0s, border 0.15s ease-in-out 0s, color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s, backdrop-filter 0.15s ease-in-out 0s, border-radius 0.15s ease 0s">Bing Image Creator</a>.</span></p>
-<p><span style="font-family: Signika, sans-serif">Portraits were tokenized using <a href="https://rolladvantage.com/tokenstamp">RollAdvantage's Token Stamp</a>.</span></p>
+<p>Maps were created with <a href="https://dungeondraft.net/" title="DungeonDraft">DungeonDraft</a> using assets from <a href="https://www.forgotten-adventures.net/" title="Forgotten Adventures">Forgotten Adventures</a>.</p>
+<p>Top-down token images are also from <a href="https://www.forgotten-adventures.net/" title="Forgotten Adventures">Forgotten Adventures</a>.</p>
+<p>Portraits and vignettes were created using <a href="https://www.bing.com/images/create" title="Bing Image Creator">Bing Image Creator</a>.</p>
 <p>Macros were hacked together using using samples I found on either the Foundry's Reddit Pages, or in the Macro Polo chat in Foundry's discord. Many thanks to those who contributed these macros! However, many apologies as well, since my lack of Javascript expertise is woefully evident!</p>
 <h2>What's Included</h2>
 <ul>
@@ -36,7 +36,7 @@
                 <p>Location Journal Pages</p>
             </li>
             <li>
-                <p>Encounters - Induction into the Osprey Club</p>
+                <p>Encounter Series - Induction into the Osprey Club</p>
             </li>
         </ul>
     </li>
@@ -89,7 +89,7 @@
         <p>Tavern Items</p>
         <ul>
             <li>
-                <p>A menu of consumable items used to stock the two taverns.</p>
+                <p>A menu of consumable items used to stock service merchants including inns, market vendors, and stables.</p>
             </li>
         </ul>
     </li>
@@ -114,12 +114,13 @@
     </li>
 </ul>
 <h2></h2>Sample Map - Under Crook's Nook</h2>
-<img src="https://github.com/tianevitt/tianzes-otari-extras/blob/main/Assets/Maps/Crooks-Bridge-Under.webp">
+<img src="https://github.com/tianevitt/tianzes-otari-extras/blob/main/Assets/Maps/Crooks-Bridge-Under.jpg>
+
 <h2>Encounters and Map Philosophy</h2>
 <p>After making many maps that really served no purpose except for eye candy, maps such as inns and shops for which I never had enough miniatures or tokens to populate, I came up with the following rule:</p>
 <p style="text-align: center"><em>Every map deserves an encounter.</em></p>
 <p>Think of it as your creator's blessing for your map. After all, once you have a battle or other plot-moving encounter, the map setting is still available for its original purpose, whether it is an inn to stay at, a market to shop in, or a ruin to rebuild as a home base.</p>
-<p>But to justify the existence of the map, use it in some encounter that will move along the plot of the story you are trying to tell — whether it involves combat or not.</p>
-<p>With that in mind, every map in this module has at least one encounter.</p>
+<p>But to justify the existence of the map, I like to use it in some encounter that will move along the plot of the story I am trying to tell — whether it involves combat or not.</p>
+<p>With that in mind, every map in this module has at least one encounter, which should fit into any Otari-based game.</p>
 <h2>Plans</h2>
 Since I am actively running two Otari-based games, one using Abomination Vaults, I expect this module to grow.
