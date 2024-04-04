@@ -1,0 +1,15 @@
+2024/04/03-19:18:25.811 1700 Recovering log #1112
+2024/04/03-19:18:25.816 1700 Delete type=0 #1112
+2024/04/03-19:18:25.816 1700 Delete type=3 #1110
+2024/04/03-19:28:01.667 4c50 Level-0 table #1118: started
+2024/04/03-19:28:01.682 4c50 Level-0 table #1118: 470830 bytes OK
+2024/04/03-19:28:01.686 4c50 Delete type=0 #1116
+2024/04/03-19:28:01.686 4c50 Manual compaction at level-0 from '!adventures!HDEa81J4denU4So2' @ 72057594037927935 : 1 .. '!adventures!HDEa81J4denU4So2' @ 0 : 0; will stop at (end)
+2024/04/03-19:28:01.686 4c50 Manual compaction at level-1 from '!adventures!HDEa81J4denU4So2' @ 72057594037927935 : 1 .. '!adventures!HDEa81J4denU4So2' @ 0 : 0; will stop at '!adventures!HDEa81J4denU4So2' @ 20 : 1
+2024/04/03-19:28:01.686 4c50 Compacting 1@1 + 1@2 files
+2024/04/03-19:28:01.699 4c50 Generated table #1119@1: 1 keys, 470830 bytes
+2024/04/03-19:28:01.699 4c50 Compacted 1@1 + 1@2 files => 470830 bytes
+2024/04/03-19:28:01.701 4c50 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/04/03-19:28:01.701 4c50 Delete type=2 #1114
+2024/04/03-19:28:01.701 4c50 Delete type=2 #1118
+2024/04/03-19:28:01.702 4c50 Manual compaction at level-1 from '!adventures!HDEa81J4denU4So2' @ 20 : 1 .. '!adventures!HDEa81J4denU4So2' @ 0 : 0; will stop at (end)

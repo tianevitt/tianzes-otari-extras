@@ -1,0 +1,8 @@
+2024/04/04-05:41:20.074 41b4 Recovering log #1117
+2024/04/04-05:41:20.082 41b4 Delete type=0 #1117
+2024/04/04-05:41:20.082 41b4 Delete type=3 #1115
+2024/04/04-05:42:08.289 3590 Level-0 table #1123: started
+2024/04/04-05:42:08.289 3590 Level-0 table #1123: 0 bytes OK
+2024/04/04-05:42:08.291 3590 Delete type=0 #1121
+2024/04/04-05:42:08.292 3590 Manual compaction at level-0 from '!adventures!HDEa81J4denU4So2' @ 72057594037927935 : 1 .. '!adventures!HDEa81J4denU4So2' @ 0 : 0; will stop at (end)
+2024/04/04-05:42:08.292 3590 Manual compaction at level-1 from '!adventures!HDEa81J4denU4So2' @ 72057594037927935 : 1 .. '!adventures!HDEa81J4denU4So2' @ 0 : 0; will stop at (end)
