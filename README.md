@@ -97,7 +97,7 @@
         <p>Merchant Actors with fully stocked inventory</p>
         <ul>
             <li>
-                <p>7 Merchants based on characters from Abomination Vaults, with new artwork</p>
+                <p>9 Merchants based on characters and places in Otari</p>
             </li>
             <li>
                 <p>7 Original Merchants</p>
