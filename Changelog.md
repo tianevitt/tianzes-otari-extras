@@ -1,3 +1,9 @@
+# Version 1.1.1
+<li>For named NPCs, changed from Forgotten Adventures topdown tokens to face tokens.</li>.
+<li>For unnamed creatures and NPCs, changed all tokens to ensure I am using the freely distributable *_01.png* version.</li>
+<li>Changed all affected tokens on each scene.</li>
+<li>Updated the PF2E version.</li>
+
 # Version 1.1.0
 
 First initial launch. Tweaked journals to include mention of Tianze's Gauntlight Extras.
