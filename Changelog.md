@@ -1,3 +1,7 @@
+# Version 1.1.2
+<li>Uploaded some missing journal images.</li>
+<li>Regenerated images for all scenes</li>
+
 # Version 1.1.1
 <li>For named NPCs, changed from Forgotten Adventures topdown tokens to face tokens.</li>.
 <li>For unnamed creatures and NPCs, changed all tokens to ensure I am using the freely distributable *_01.png* version.</li>
