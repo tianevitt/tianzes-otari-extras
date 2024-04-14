@@ -1,3 +1,6 @@
+# Version 1.1.4
+<li>Fixed missing thumbnail issue when an obvious solution dawned upon me.</li>
+
 # Version 1.1.3
 <li>Updated description in adventure compendium and main journal.</li>
 <li>Fixed capitalization issues that appear in unix-flavor instances for maps, actors and images. Replaced all tokens and tiles on all maps; repointed all journal images. If any issues still are lingering, please open a bug because I don't yet have a unix instance (working on it).</li>
