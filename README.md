@@ -4,6 +4,13 @@
 <p>Top-down token images are also from <a href="https://www.forgotten-adventures.net/" title="Forgotten Adventures">Forgotten Adventures</a>.</p>
 <p>Portraits and vignettes were created using <a href="https://www.bing.com/images/create" title="Bing Image Creator">Bing Image Creator</a>.</p>
 <p>Macros were hacked together using using samples I found on either the Foundry's Reddit Pages, or in the Macro Polo chat in Foundry's discord. Many thanks to those who contributed these macros! However, many apologies as well, since my lack of Javascript expertise is woefully evident!</p>
+<h2>New!</h2>
+<ul>
+    New scene - Fish Camp Base with journals, items and encounters.
+    Added journal versions of all merchants to support Monk's Enhanced Journals shop-based merchants.
+    Added rolltables to use in either journal-based shops, or actor shops that have been enhanced with Item Piles.
+    Lots of bugfixes and tweaks.
+</ul>
 <h2>What's Included</h2>
 <ul>
     <li>
