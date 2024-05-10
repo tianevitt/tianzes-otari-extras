@@ -1,7 +1,7 @@
 {
   "id": "tianzes-otari-extras",
   "title": "Tianze's Otari Extras",
-  "version": "1.1.3",
+  "version": "1.2.0",
   "compatibility": {
     "verified": "11",
     "minimum": "11"
@@ -9,8 +9,8 @@
   "authors": [
     {
       "name": "Tia Nevitt",
-      "discord": "tianze_scribe",
-      "flags": {}
+      "url": "https://www.tianevitt.com",
+      "discord": "tianze_scribe"
     }
   ],
   "relationships": {
@@ -35,12 +35,22 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "tianzes-otari-shops",
+      "label": "Tianze's Otari Shops",
+      "path": "packs/tianzes-otari-shops",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
       },
-      "flags": {}
+      "system": "pf2e"
     }
   ],
   "description": "Tianze's Otari Extras is a collection of maps and content for the Otari area. It includes maps and content for Crook's Nook, Crow's Casks, Dawnflower Library and Otari Market.",
   "url": "https://github.com/tianevitt/tianzes-otari-extras",
   "manifest": "https://github.com/tianevitt/tianzes-otari-extras/releases/latest/download/module.json",
-  "download": "https://github.com/tianevitt/tianzes-otari-extras/releases/download/1.1.3/tianzes-otari-extras.zip"
+  "download": "https://github.com/tianevitt/tianzes-otari-extras/releases/download/1.2.0/tianzes-otari-extras.zip"
 }
