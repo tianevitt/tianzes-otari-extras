@@ -1,3 +1,15 @@
+# Version 1.2.0
+<li>Added new scene - Fish Camp Base with new actors, items, and journals with encounter</li>
+<li>Added new versions of all shops using Monk's Enhanced Journal. Thanks to <a href="https://github.com/Issacar13">Issacar13</a> for the suggestion.</li>
+<li>Added rolltables to support most of the shops. This is useful for both MEJ and Item Piles merchants. The only ones I excluded had small inventories.</li>
+<li>Added a "Merchant Items" in the items folder for a few custom items.</li>
+<li>Added changelog journal.</li>
+<li>Replaced a survial check with a swimming check so it is in line with PF2E rules (Issue #9 - hat tip <a href="https://github.com/ChasarooniZ">ChasarooniZ</a>).</li>
+<li>Renamed all folders (too much Tianze before - sorry).</li>
+<li>Tweaked some merchant actor inventories.</li>
+<li>Fixed incorrect global illumination setting on several scenes.</li>
+<li>Replaced Leveled Iconics with remastered versions.</li>
+
 # Version 1.1.4
 <li>Fixed missing thumbnail issue when an obvious solution dawned upon me.</li>
 
