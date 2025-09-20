@@ -1,16 +1,12 @@
-<p>Thank you for trying this module. Tianze's Otari Extras is a collection of maps and content set in the town of Otari, which is the setting for Pathfinder scenarios including <i>Menace Under Otari</i> (the Beginner Box adventure), <i>Abomination Vaults Adventure Path</i> and <i>Troubles in Otari</i>. </p>
+<h2>September 20, 2025 - V13 and New Portraits</h2>h2>
+Finally updated to V13, plus I replaced all the very dated looking AI-generated portraits. Also added scene regions to most interior scenes, to add a to the ambiance with nicely dim interiors.
+<hr>
+<p>Tianze's Otari Extras is a collection of maps and content set in the town of Otari, which is the setting for Pathfinder scenarios including <i>Menace Under Otari</i> (the Beginner Box adventure), <i>Abomination Vaults Adventure Path</i> and <i>Troubles in Otari</i>. </p>
 <p>I decided to create this module as an introductory free work for my adventurers and maps. I created the original version of these maps while running the adventure, and once I started improving the maps using Forgotten Adventures assets, I decided to try my hand at module-making.</p>
 <p>Maps were created with <a href="https://dungeondraft.net/" title="DungeonDraft">DungeonDraft</a> using assets from <a href="https://www.forgotten-adventures.net/" title="Forgotten Adventures">Forgotten Adventures</a>.</p>
 <p>Top-down token images are also from <a href="https://www.forgotten-adventures.net/" title="Forgotten Adventures">Forgotten Adventures</a>.</p>
 <p>Portraits and vignettes were created using <a href="https://www.bing.com/images/create" title="Bing Image Creator">Bing Image Creator</a>.</p>
 <p>Macros were hacked together using using samples I found on either the Foundry's Reddit Pages, or in the Macro Polo chat in Foundry's discord. Many thanks to those who contributed these macros! However, many apologies as well, since my lack of Javascript expertise is woefully evident!</p>
-<h2>New!</h2>
-<ul>
-    <li>New scene - Fish Camp Base with journals, items and encounters.</li>
-    <li>Added journal versions of all merchants to support Monk's Enhanced Journals shop-based merchants.</li>
-    <li>Added rolltables to use in either journal-based shops, or actor shops that have been enhanced with Item Piles.</li>
-    <li>Lots of bugfixes and tweaks.</li>
-</ul>
 <h2>What's Included</h2>
 <ul>
     <li>
