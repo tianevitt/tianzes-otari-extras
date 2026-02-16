@@ -1,5 +1,5 @@
-<h2>September 20, 2025 - V13 and New Portraits</h2>h2>
-Finally updated to V13, plus I replaced all the very dated looking AI-generated portraits. Also added scene regions to most interior scenes, to add a to the ambiance with nicely dim interiors.
+<h2>Sunday, February 15, 2026</h2>h2>
+Just a few tweaks and fixes, plus a new rolltable for "Weapons and Armor".
 <hr>
 <p>Tianze's Otari Extras is a collection of maps and content set in the town of Otari, which is the setting for Pathfinder scenarios including <i>Menace Under Otari</i> (the Beginner Box adventure), <i>Abomination Vaults Adventure Path</i> and <i>Troubles in Otari</i>. </p>
 <p>I decided to create this module as an introductory free work for my adventurers and maps. I created the original version of these maps while running the adventure, and once I started improving the maps using Forgotten Adventures assets, I decided to try my hand at module-making.</p>
