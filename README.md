@@ -1,4 +1,4 @@
-<h2>Sunday, February 15, 2026</h2>h2>
+<h2>Sunday, February 15, 2026</h2>
 Just a few tweaks and fixes, plus a new rolltable for "Weapons and Armor".
 <hr>
 <p>Tianze's Otari Extras is a collection of maps and content set in the town of Otari, which is the setting for Pathfinder scenarios including <i>Menace Under Otari</i> (the Beginner Box adventure), <i>Abomination Vaults Adventure Path</i> and <i>Troubles in Otari</i>. </p>
